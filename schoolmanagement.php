@@ -4,7 +4,7 @@
   Plugin URI: http://www.evoxyz.com
   Description: short code user for all bus [school_management_type_bus]. and short code user for all bus route [school_management_bus_route] and short code user for all bus route location  [school_management_route_location]
   Version: 1.0
-  Author: Raman Kant Kamboj
+  Author: Raman Kant
   Author URI: http://google.co.in
  */
 ob_start();
